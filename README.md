@@ -1,3 +1,3 @@
 # my-scripts
 
-Scripts I use to do tedious tasks on Linux.
+bash scripts for repetitive tasks and CTF tips.
