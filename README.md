@@ -1,3 +1,3 @@
 # my-scripts
 
-bash scripts for repetitive tasks and CTF tips.
+Shell scripts to automate repetitive tasks and useful commands for CTF challenges.
