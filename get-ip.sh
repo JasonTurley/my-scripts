@@ -45,7 +45,6 @@ shift $(($OPTIND - 1))
 if [ -z "$*" ]; then
 	interface=eth0
 else	       
-	echo "[DEBUG] interfaces are $*"
 	interface="$*"
 fi
 
