@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# jot - quick way to jot down notes into a file
+# add to path then run `jot This is a cool tool`
+
+OUTFILE="~/notes.txt"
+
+(echo $(date); echo "$*"; echo "") >> $OUTFILE
